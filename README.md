@@ -16,7 +16,7 @@ I have created two versions for each script to run on Python 2 and Python 3. The
 3. Total, Average and Count Computation from numbers in a text file with a mix of words and numbers 
 <br />_average_parse_p2.py and average_parse_p3.py_
 
-4. Collate list of timings and counts, sort, and find most/least comm   on timings in an email log
+4. Collate list of timings and counts, sort, and find most/least timings in an email log
 <br />_key_value_count_sort_p2.py key_value_count_sort_p3.py _
 
 5. Seeking email that sent the most emails from email logs (text file)
